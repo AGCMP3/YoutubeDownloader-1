@@ -12,3 +12,7 @@ Download and run
 and then
 
 ``` yarn start ```
+
+then visit
+
+``` localhost:5000 ```
