@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
-    "ytdl-core": "^1.0.3"
+    "ytdl-core": "^3.2.1"
   }
 }
